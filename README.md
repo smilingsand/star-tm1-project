@@ -16,7 +16,7 @@ This is a Flask API + TM1py based tool for extracting TM1 cube and dimension dat
 6. when using Flask API to directly extract data (Power BI sample):  
 	`get Data` -> `Web`:
 	input URL (one object each time):  
-	`http://<your IP>:<Rest Port>/dimension/<dimension_name>` 
+	`http://<your IP>:<Rest Port>/dimension/<dimension_name>`
 	`http://<your IP>:<Rest Port>/cube/<cube_name>`
 
 ## Discussion
