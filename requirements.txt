@@ -1,0 +1,9 @@
+flask
+tm1py
+numpy
+pandas
+configparser
+json
+datetime
+fnmatch
+typing

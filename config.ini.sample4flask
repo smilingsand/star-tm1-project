@@ -1,0 +1,17 @@
+[OVERALL]
+ExportMethod=Flask
+TM1-Server=TM1-Practice
+
+[FLASK]
+host=0.0.0.0
+port=5000
+debug=True
+
+[TM1-Practice]
+address=localhost
+port=12662
+user=admin
+password=
+ssl=True
+dimensions_neglect=*Measure*,System*
+
