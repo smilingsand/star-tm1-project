@@ -49,3 +49,6 @@ This is a Flask API + TM1py based tool for extracting TM1 cube and dimension dat
 		- Keep the space in cube/dimension name, like `Sales Analysis`  
 		- cube/dimension name is capital sensitive  
 		- Use '`,`' between multiple cubes/dimensions  
+
+
+[![GitHub stars](https://img.shields.io/github/stars/smilingsand/star-tm1-project.svg)](https://github.com/smilingsand/star-tm1-project/stargazers)
